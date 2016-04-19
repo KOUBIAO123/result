@@ -1,1 +1,1 @@
-study
+study web develop
